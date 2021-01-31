@@ -21,5 +21,5 @@ Music and Audio Blueprints:
 - Sergio V. Quintero
 
 Unreal Marketplace Assets Used:
-- Modular SciFi Season 1 Starter Bundle by Jonathon Frederick
-- Military Style Mannequins by Offworld Defence Simulations
+- [Modular SciFi Season 1 Starter Bundle by Jonathon Frederick](https://www.unrealengine.com/marketplace/en-US/product/modular-scifi-season-1-starter-bundle)
+- [Military Style Mannequins by Offworld Defence Simulations](https://www.unrealengine.com/marketplace/en-US/product/c456f4551dc9416cb9370707450f980e)
