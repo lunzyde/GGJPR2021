@@ -1,6 +1,6 @@
 # Frost-bound
   
-An adventure game set in the South Pole in Antarctica, made in Unreal Engine 4 during the Global Game Jam 2021 - Puerto Rico.
+An adventure game set in the South Pole in Antarctica, made in Unreal Engine 4 during the Global Game Jam 2021 (Puerto Rico Jam Site).
 
 Global Game Jam Submission Page: https://globalgamejam.org/2021/games/frost-bound-1
   
