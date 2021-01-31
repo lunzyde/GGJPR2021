@@ -1,4 +1,20 @@
 # Frost-bound
 <div>
-Game description goes here
-Credits goes here
+Blueprints Programming: 
+
+- Bryan B. Bonilla Díaz
+- Daniel Anthony Castillo Falcón
+- Zoey Senesi
+
+Snow Particle Effect and Level Design:
+- Bryan B. Bonilla Díaz
+
+3D Modeling and Art: 
+- Zoey Senesi
+
+Music and Audio Blueprints:
+- Sergio V. Quintero
+
+Unreal Marketplace Assets Used:
+- Modular SciFi Season 1 Starter Bundle by Jonathon Frederick
+- Military Style Mannequins by Offworld Defence Simulations
